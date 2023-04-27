@@ -1,4 +1,4 @@
-python -u finetune_bert_glue.py \
+python -u finetune_on_glue.py \
     --dataset "cola" \
     --model "bert-base-cased" \
     --batch_size 64 \
